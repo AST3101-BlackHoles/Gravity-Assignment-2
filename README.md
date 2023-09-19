@@ -25,7 +25,12 @@ c) what is the characteristic frequency of a Black Hole's normal modes? (hint, w
 
 ## Problem 2
 
-Using the quadropole approximation and neglecting radiation reaction, compute the strain for the general Keplerian trajectory of two point masses in Newtonian gravity. You can work in the center-of-mass frame.
+Using the quadropole approximation and neglecting radiation reaction, compute the strain for a circular Keplerian orbit for two point masses in Newtonian gravity.
+Make a plot of the relative separation between the 2 masses as a function of time and plots of all the nonzero components of the trace-reversed strain as a function of time.
+
+Extra credit will be given if you additionally solve for the elliptical, parabolic, and hyperbolic cases.
+
+You should work in the center-of-mass frame.
 
 ---
 
