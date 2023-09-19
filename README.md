@@ -13,7 +13,7 @@ Some order of magnitude calculations for compact binary systems:
 a) estimate the maximum frequency a binary system will achieve before the components plunge for
 
   - black holes with m1 = m2 = 30 Msun
-  - neutron stars m1 = m2 = 1.4 and radii = 12km
+  - neutron stars m1 = m2 = 1.4 and r1 = r2 = 12km
 
 b) estimate the amplitude of the strain observed at Earth for a binary black hole systems with
 
@@ -25,10 +25,10 @@ c) what is the characteristic frequency of a Black Hole's normal modes? (hint, w
 
 ## Problem 2
 
-Compute and plot the GW signal from a Newtonian hyperbolic encounter.
+Using the quadropole approximation and neglecting radiation reaction, compute the strain for the general Keplerian trajectory of two point masses in Newtonian gravity. You can work in the center-of-mass frame.
 
 ---
 
 ## Extra (not graded)
 
-Plot the antenna pattern across the sky for all polarizations
+Using the detector tensor and the definitions of all GW polarizations, plot the antenna power patterns across the sky for each polarization. Assume a cartesian coordinate system aligned with the detector arms. Is there anything special about the antenna pattern for breathing and longitudinal modes?
