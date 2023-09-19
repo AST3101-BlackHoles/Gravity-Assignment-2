@@ -13,7 +13,7 @@ Some order of magnitude calculations for compact binary systems:
 a) estimate the maximum frequency a binary system will achieve before the components plunge for
 
   - black holes with m1 = m2 = 30 Msun
-  - neutron stars m1 = m2 = 1.4 and r1 = r2 = 12km
+  - neutron stars m1 = m2 = 1.4 and r1 = r2 = 13km
 
 b) estimate the amplitude of the strain observed at Earth for a binary black hole systems with
 
