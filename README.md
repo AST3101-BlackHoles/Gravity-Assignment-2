@@ -8,10 +8,16 @@
 
 ## Problem 1
 
-Some order of magnitude calculations
+Some order of magnitude calculations for compact binary systems:
 
-  * masses from maximum frequency observed in an inspiral
-  * compactness from frequency and mass
+  a) estimate the maximum frequency a binary system will achieve before the components plunge for
+    - black holes with m1 = m2 = 30 Msun
+    - neutron stars m1 = m2 = 1.4 and radii = 12km
+  b) estimate the amplitude of the strain observed at Earth for a binary black hole systems with
+    - m1 = m2 = 30 Msun
+    - orbital frequency at ISCO
+    - luminosity distance of 200 Mpc from Earth
+  c) what is the characteristic frequency of a Black Hole's normal modes? (hint, what is the light-travel time?)
 
 ## Problem 2
 
